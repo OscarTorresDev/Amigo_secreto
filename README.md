@@ -34,23 +34,15 @@ Abrir el proyecto:
 No se requieren dependencias externas ni instalación de paquetes, ya que el proyecto es completamente frontend.
 Abre el archivo index.html en un navegador web (por ejemplo, Chrome, Firefox) haciendo doble clic o usando un servidor local.
 
+Puedes verlo en :
+https://oscartorresdev.github.io/Amigo_secreto/ y probarlo.
 
-(Opcional) Usar un servidor local:
 
+U opcionalmente usar un servidor local:
 Para una mejor experiencia, puedes usar un servidor local como Live Server en Visual Studio Code.
 
 
 
-
-
-Estructura del proyecto
-Amigo_secreto/
-├── assets/
-│   ├── amigo-secreto.png       # Imagen del banner
-│   └── play_circle_outline.png # Ícono del botón de sorteo
-├── index.html                  # Estructura principal de la página
-├── style.css                   # Estilos personalizados
-└── app.js                      # Lógica de la aplicación
 
 Cómo usar
 
