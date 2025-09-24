@@ -37,10 +37,7 @@ Abre el archivo index.html en un navegador web (por ejemplo, Chrome, Firefox) ha
 
 (Opcional) Usar un servidor local:
 
-Para una mejor experiencia, puedes usar un servidor local como Live Server en Visual Studio Code o ejecutar:npx http-server
-
-
-Luego, accede a http://localhost:8080 en tu navegador.
+Para una mejor experiencia, puedes usar un servidor local como Live Server en Visual Studio Code.
 
 
 
